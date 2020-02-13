@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1525278624 source:c:\users\colej\desktop\rcbc\cse 110\project 3\main.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<conio.h>
+	"Project3Header.h"
+
+1525278871 c:\users\colej\desktop\rcbc\cse 110\project 3\project3header.h
+
+1525278624 source:c:\users\cole\dropbox\school\cse 110\project 3\main.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<conio.h>
+	"Project3Header.h"
+
+1525278875 c:\users\cole\dropbox\school\cse 110\project 3\project3header.h
+
